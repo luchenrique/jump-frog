@@ -50,5 +50,5 @@ Quando o personagem encosta na fruta, as mesma desaparece com a função de dest
 
 <h2>Link do jogo</h2>
 
-Link 1: https://luchenrique.itch.io/jump-frog </br>
-Link 2: https://github.com/luchenrique/jump-frog/blob/main/jump-frog.c3p
+Link 1 (Jogo na Web): https://luchenrique.itch.io/jump-frog </br>
+Link 2 (Download): https://github.com/luchenrique/jump-frog/blob/main/jump-frog.c3p
