@@ -13,6 +13,7 @@ Jogo trata-se de um pequeno sapo aventureiro que adora maçãs🍎.
 - Capturar todas as maças do mapa.
 
 <h2>Dentro do game</h2>
+<a><img src="./prints/principal.png"></a>
 
 <h2>Link do jogo</h2>
 
