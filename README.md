@@ -18,7 +18,8 @@ Jogo trata-se de um pequeno sapo aventureiro que adora maçãs🍎.
 <a><img src="./prints/principal.png"></a>
 
 <h3> Folha de eventos </h3>
-<a><img src="./prints/acoes.png"></a>
+<a><img src="./prints/acoes1.png"></a>
+<a><img src="./prints/acoes2.png"></a>
 
 <h3> Evento 1 </h3>
 <a><img src="./prints/acao1.png"></a>
@@ -47,6 +48,13 @@ Faz o fundo "bg (Backgroud)" se movimentar para a direita.
 <h3> Evento 7 </h3>
 <a><img src="./prints/acao7.png"></a>
 Quando o personagem encosta na fruta, as mesma desaparece com a função de destruir.
+
+<h3> Evento 8 </h3>
+<a><img src="./prints/acoes2.png"></a>
+Evento configurando rank juntamente com o Firebase
+
+<h2>Banco de Dados - Firebase</h2>
+<a><img src="./prints/ranking.png"></a>
 
 <h2>Link do jogo</h2>
 
