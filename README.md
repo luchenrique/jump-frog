@@ -13,7 +13,13 @@ Jogo trata-se de um pequeno sapo aventureiro que adora maçãs🍎.
 - Capturar todas as maças do mapa.
 
 <h2>Dentro do game</h2>
+
+<h3> Tela principal </h3>
 <a><img src="./prints/principal.png"></a>
+
+<h3> Tela principal </h3>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt="principal.png" src="https://github.com/luchenrique/jump-frog/blob/main/prints/principal.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 
 <h2>Link do jogo</h2>
 
